@@ -1,0 +1,8 @@
+Host: sql12.freesqldatabase.com
+Database name: sql12648490
+Database user: sql12648490
+Database password: IRvMwntPKw
+Port number: 3306
+
+
+Link: jdbc:mysql://sql12.freesqldatabase.com:3306/sql12648490
